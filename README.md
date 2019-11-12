@@ -19,7 +19,7 @@
 - cp: coppy
 
 
-#- GIT and gitHub
+# - GIT and gitHub
 - Introduction to git : https://github.com/Asabeneh/Git-and-Github
 
 - For first time configaration of git:
