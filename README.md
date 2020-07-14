@@ -17,6 +17,8 @@
 - tree //to see the directory tree
 - history //to see the history of the comand line
 - cp: coppy
+- :q! // to quite and continue from recent activity if there are some error/nothing accepting 
+
 
 
 # - GIT and gitHub
@@ -35,3 +37,5 @@
 - git checkout branch-name (i.e. branch-test)  //Swith to branch
 - git branch -m branch-test test //rename the branch name (m= message)
 - git merge branch-name (i.e dev)  //to merge the branch with each other
+- git rebase branch-name  // this is another way of merging called rebase. This is used as base branch
+
