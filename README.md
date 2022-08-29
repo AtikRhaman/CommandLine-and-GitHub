@@ -38,4 +38,5 @@
 - git branch -m branch-test test //rename the branch name (m= message)
 - git merge branch-name (i.e dev)  //to merge the branch with each other
 - git rebase branch-name  // this is another way of merging called rebase. This is used as base branch
+- g reset --hard origin/master // back to origin remote master branch
 
