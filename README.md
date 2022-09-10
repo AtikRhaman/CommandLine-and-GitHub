@@ -40,3 +40,7 @@
 - git rebase branch-name  // this is another way of merging called rebase. This is used as base branch
 - g reset --hard origin/master // back to origin remote master branch
 
+# - Firebase 
+- npm run build   // to build a react project
+- firebase deploy   // to deploy into firebase and go live
+
